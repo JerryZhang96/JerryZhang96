@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Remix, golang**
 
-- 👨‍💻 All of my projects are available at [https://jerryzhang96.github.io/portfolio](https://jerryzhang96.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://jerryzhang96.github.io/portfolio/en/projects](https://jerryzhang96.github.io/portfolio/en/projects)
 
 - 💬 Ask me about **react, vue**
 
