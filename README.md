@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryzhang96&label=Profile%20views&color=0e75b6&style=flat" alt="jerryzhang96" /> </p>
 
-- 🔭 I’m currently working on [CoinsDo Website](https://web.coinsdotest.com/)
+- 🔭 I’m currently working on [CoinsDo Website](https://coinsdo.com/)
 
 - 🌱 I’m currently learning **backend development**
 
