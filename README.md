@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryzhang96&label=Profile%20views&color=0e75b6&style=flat" alt="jerryzhang96" /> </p>
 
-- 🔭 I’m currently working on [CoinsDo Website](https://coinsdo.com/)
-
 - 🌱 I’m currently learning **backend development**
 
 - 👨‍💻 All of my projects are available at [https://jerryzhang96.github.io/portfolio/en/projects](https://jerryzhang96.github.io/portfolio/en/projects)
